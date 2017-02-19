@@ -1,0 +1,33 @@
+{
+    "name": "fabriceclementz/clarifai-php",
+    "description": "A PHP client for the Clarifai API.",
+    "homepage": "https://github.com/fabriceclementz/clarifai-php",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0",
+        "mockery/mockery": "^0.9.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fab\\Clarifai\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Fab\\Clarifai\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fabrice Clementz",
+            "email": "fabrice.clementz@neuf.fr"
+        }
+    ],
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    }
+}
