@@ -1,5 +1,13 @@
 # Clarifai API Client
 
+[![Latest Stable Version](https://poser.pugx.org/fabriceclementz/clarifai-php/v/stable)](https://packagist.org/packages/fabriceclementz/clarifai-php)
+[![Total Downloads](https://poser.pugx.org/fabriceclementz/clarifai-php/downloads)](https://packagist.org/packages/fabriceclementz/clarifai-php)
+[![License](https://poser.pugx.org/fabriceclementz/clarifai-php/license)](https://packagist.org/packages/fabriceclementz/clarifai-php)
+[![Build Status](https://travis-ci.org/fabriceclementz/clarifai-php.svg?branch=master)](https://travis-ci.org/fabriceclementz/clarifai-php)
+[![Build Status](https://travis-ci.org/fabriceclementz/clarifai-php.svg?branch=master)](https://travis-ci.org/fabriceclementz/clarifai-php)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/fabriceclementz/clarifai-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/fabriceclementz/clarifai-php/?branch=master)
+
+
 A PHP client for the [Clarifai API](https://developer.clarifai.com).
 
 Work in progress.
